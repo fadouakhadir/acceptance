@@ -41,10 +41,7 @@ pipeline {
     
     post {
         always {
-            sh "docker stop calculator_staging || true"
-            sh "docker rm calculator_staging || true"
-            sh "docker stop calculator_acceptance_test || true"
-            sh "docker rm calculator_acceptance_test || true"
+            sh "docker stop calculator"
         }
     }
 }
