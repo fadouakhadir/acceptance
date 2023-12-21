@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fadoua.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-21T15:32:19" hostname="fadoua-ThinkPad-X1-Yoga-Gen-5" time="1.013">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.fadoua.calculator.CalculatorApplicationTests" time="1.013"/>
+  <system-out><![CDATA[16:32:16.520 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.fadoua.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:32:16.968 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.fadoua.calculator.CalculatorApplication for test class com.fadoua.calculator.CalculatorApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2023-12-21T16:32:18.535+01:00  INFO 46104 --- [    Test worker] c.f.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.8.1 with PID 46104 (started by fadoua in /home/fadoua/acceptance)
+2023-12-21T16:32:18.538+01:00  INFO 46104 --- [    Test worker] c.f.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T16:32:19.978+01:00  INFO 46104 --- [    Test worker] c.f.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 2.489 seconds (process running for 6.178)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/fadoua/acceptance/src/main/java/com/fadoua/calculator/CalculatorApplication.java">
+</file>
+<file name="/home/fadoua/acceptance/src/main/java/com/fadoua/calculator/CalculatorController.java">
+</file>
+<file name="/home/fadoua/acceptance/src/main/java/com/fadoua/calculator/Calculator.java">
+</file>
+</checkstyle>
